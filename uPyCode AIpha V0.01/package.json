@@ -1,0 +1,22 @@
+{
+  "name": "electron-quick-start",
+  "version": "0.0.1",
+  "description": "A MicorPython application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Afantor",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.7"
+  }
+}
