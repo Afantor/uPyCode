@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "uPyCode",
   "version": "0.0.1",
   "description": "A MicorPython application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/Afantor/uPyCode",
   "keywords": [
     "Electron",
     "quick",
@@ -18,5 +18,9 @@
   "license": "MIT",
   "devDependencies": {
     "electron": "^2.0.7"
+  },
+  "dependencies": {
+    "electron-rebuild": "^1.8.2",
+    "serialport": "^6.2.2"
   }
 }
